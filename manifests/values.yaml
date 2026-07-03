@@ -1,2 +1,2 @@
 image: danstuken/jokes:<+pipeline.sequenceId>
-replicas: 2
+replicas: 3
